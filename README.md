@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.imgur.com/q3x1Y09.png" width="600" alt="Banner" />
+  <img src="./img/Github_Readme.png" width="600" alt="Banner" />
 </p>
 
 <h2 align="center">👋 ¡Hola! Soy Alessandro Poves</h2>
