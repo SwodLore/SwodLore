@@ -1,8 +1,9 @@
+<h2 align="left">👋 ¡Hola! Soy Alessandro Poves</h2>
+
 <p align="center">
   <img src="./img/Github_Readme.png" width="600" alt="Banner" />
 </p>
 
-<h2 align="center">👋 ¡Hola! Soy Alessandro Poves</h2>
 
 <p align="center">
   Estudiante de Ingeniería de Sistemas en la UNCP 🇵🇪<br>
