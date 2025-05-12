@@ -1,4 +1,13 @@
-## Hi there 👋
+### 👋 ¡Hola! Soy Alessandro Poves
+Estudiante de Ingeniería de Sistemas en la UNCP 🇵🇪  
+Apasionado por el desarrollo web, especialmente con Laravel, React y Spring Boot.
+
+### 🚀 Tecnologías
+- ⚙️ Backend: Laravel, Spring Boot, .NET
+- 🌐 Frontend: React, Angular, TailwindCSS
+- 🛢️ Base de Datos: MySQL, PostgreSQL
+
+📫 Contáctame en [LinkedIn](https://linkedin.com/in/tu_usuario)  
 
 <!--
 **SwodLore/SwodLore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
