@@ -38,7 +38,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="40" title="Windows Server"/>
 
   <!-- Ciberseguridad -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/Kali-dragon-icon.svg" width="40" title="Kali Linux"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Kali-dragon-icon.svg/2048px-Kali-dragon-icon.svg.png" width="40" title="Kali Linux"/>
 
   <!-- Lenguajes -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" title="Python"/>
