@@ -1,7 +1,7 @@
 <h2 align="left">👋 ¡Hola! Soy Alessandro Poves</h2>
 
 <p align="center">
-  <img src="./img/Github_Readme.png" width="600" alt="Banner" />
+  <img src="./img/Github_Readme.png" width="full" alt="Banner" />
 </p>
 
 
