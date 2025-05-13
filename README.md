@@ -7,8 +7,8 @@
 
 <p align="center">
   Estudiante de Ingeniería de Sistemas en la 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/15/UNCP_logo.png" alt="UNCP" height="20" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/15/UNCP_logo.png" alt="UNCP" height="20" /> 🇵🇪<br>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Escudo_UNCP.png/330px-Escudo_UNCP.png" alt="UNCP" height="20" />
+  <img src="https://uncp.edu.pe/wp-content/uploads/2019/12/Logo-fispeq.png" alt="FIS" height="20" /> 🇵🇪<br>
   Apasionado por la ciberseguridad, el desarrollo web y el aprendizaje constante.
 </p>
 
