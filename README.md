@@ -16,9 +16,16 @@
 
 ### 🧠 Sobre mí
 
-🔐 Actualmente me estoy enfocando en el área de **ciberseguridad**.  
-🐧 Aprendo a manejar herramientas de **Linux**, especialmente en **Kali Linux**.  
-💻 También desarrollo aplicaciones con **Laravel** y **React**.  
+🔐 Actualmente me estoy especializando en el área de **ciberseguridad**, preparándome para la certificación **eJPT (Junior Penetration Tester)**.  
+🐍 Utilizo **Python** para realizar pruebas de **hacking ético**, scripting y automatización de tareas.  
+🐧 Trabajo con herramientas y entornos basados en **Linux**, especialmente en **Kali Linux**.  
+💻 Además, desarrollo aplicaciones con **Laravel**, **React** y **Bash**.
+
+🚀 Algunos proyectos destacados:
+- 📚 Sistema de gestión para la biblioteca de la **Facultad de Ingeniería de Sistemas**.
+- 🛒 Aplicación **e-commerce** completa (frontend + backend).
+- 🎰 Script en **Bash** para analizar patrones en una ruleta.
+- 🕵️ Desarrollo de herramientas como **keyloggers** y prototipo de **ransomware**, con fines estrictamente educativos.
 
 ---
 
