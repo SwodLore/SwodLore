@@ -38,7 +38,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="40" title="Windows Server"/>
 
   <!-- Ciberseguridad -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kali/kali-plain.svg" width="40" title="Kali Linux"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/Kali-dragon-icon.svg" width="40" title="Kali Linux"/>
 
   <!-- Lenguajes -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" title="Python"/>
@@ -51,7 +51,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" title="CSS3"/>
 
   <!-- Frameworks y librerías -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" width="40" title="Laravel"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg" width="40" title="Laravel"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" title="React"/>
 
   <!-- Bases de datos -->
