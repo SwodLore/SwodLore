@@ -6,7 +6,9 @@
 
 
 <p align="center">
-  Estudiante de Ingeniería de Sistemas en la UNCP 🇵🇪<br>
+  Estudiante de Ingeniería de Sistemas en la 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/15/UNCP_logo.png" alt="UNCP" height="20" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/15/UNCP_logo.png" alt="UNCP" height="20" /> 🇵🇪<br>
   Apasionado por la ciberseguridad, el desarrollo web y el aprendizaje constante.
 </p>
 
